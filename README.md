@@ -1,5 +1,21 @@
 https://www.powerlanguage.co.uk/wordle/
 
+* 2022-01-24
+
+  Wordle 219 5/6
+
+  ⬜🟨🟨⬜🟨<br />
+  🟩🟩🟩⬜⬜<br />
+  🟩🟩🟩⬜⬜<br />
+  🟩🟩🟩⬜⬜<br />
+  🟩🟩🟩🟩🟩<br />
+
+  <details>
+  <summary>results</summary>
+    <img src="https://github.com/andry81/wordle-play/raw/master/games/2022-01-24/result.png" valign="middle" alt="result" />
+    <img src="https://github.com/andry81/wordle-play/raw/master/games/2022-01-24/stats.png" valign="middle" alt="stats" />
+  </details>
+
 * 2022-01-23
 
   Wordle 218 5/6
