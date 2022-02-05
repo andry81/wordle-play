@@ -1,6 +1,12 @@
 https://www.powerlanguage.co.uk/wordle/
 
 * <details>
+  <summary>2022-02-06 | Wordle 232 4/6 | 🟩⬜⬜⬜⬜ 🟩⬜⬜🟩⬜ 🟩🟩⬜🟩🟩 🟩🟩🟩🟩🟩</summary>
+    <a href="#"><img src="https://github.com/andry81/wordle-play/raw/master/games/2022-02-06/result.png" valign="middle" alt="result" /></a>
+    <a href="#"><img src="https://github.com/andry81/wordle-play/raw/master/games/2022-02-06/stats.png" valign="middle" alt="stats" /></a>
+  </details>
+
+* <details>
   <summary>2022-02-05 | Wordle 231 6/6 | ⬜🟨⬜🟨⬜ ⬜⬜🟨🟨⬜ 🟩🟩⬜⬜⬜ 🟩🟩⬜⬜⬜ 🟩🟩🟩⬜⬜ 🟩🟩🟩🟩🟩</summary>
     <a href="#"><img src="https://github.com/andry81/wordle-play/raw/master/games/2022-02-05/result.png" valign="middle" alt="result" /></a>
     <a href="#"><img src="https://github.com/andry81/wordle-play/raw/master/games/2022-02-05/stats.png" valign="middle" alt="stats" /></a>
