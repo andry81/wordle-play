@@ -1,3 +1,13 @@
+https://www.nytimes.com/games/wordle/index.html
+
+* <details>
+  <summary>2022-02-11 | Wordle 237 5/6 | ⬛⬛⬛🟩⬛ ⬛⬛⬛🟩🟩 🟨⬛⬛🟩🟩 ⬛⬛⬛🟩🟩 🟩🟩🟩🟩🟩</summary>
+    <a href="#"><img src="https://github.com/andry81/wordle-play/raw/master/games/2022-02-11/result.png" valign="middle" alt="result" /></a>
+    <a href="#"><img src="https://github.com/andry81/wordle-play/raw/master/games/2022-02-11/stats.png" valign="middle" alt="stats" /></a>
+  </details>
+
+---
+
 https://www.powerlanguage.co.uk/wordle/
 
 * <details>
