@@ -1,6 +1,12 @@
 https://www.nytimes.com/games/wordle/index.html
 
 * <details>
+  <summary>2022-03-01 | Wordle 255 6/6 | ⬛🟨⬛⬛🟩 ⬛⬛⬛🟨🟩 🟩⬛⬛⬛🟩 🟩🟩⬛⬛🟩 🟩🟩⬛⬛🟩 🟩🟩🟩🟩🟩</summary>
+    <a href="#"><img src="https://github.com/andry81/wordle-play/raw/master/games/2022-03-01/result.png" valign="middle" alt="result" /></a>
+    <a href="#"><img src="https://github.com/andry81/wordle-play/raw/master/games/2022-03-01/stats.png" valign="middle" alt="stats" /></a>
+  </details>
+
+* <details>
   <summary>2022-02-28 | Wordle 254 3/6 | ⬛⬛⬛⬛🟩 ⬛⬛🟩⬛🟩 🟩🟩🟩🟩🟩</summary>
     <a href="#"><img src="https://github.com/andry81/wordle-play/raw/master/games/2022-02-28/result.png" valign="middle" alt="result" /></a>
     <a href="#"><img src="https://github.com/andry81/wordle-play/raw/master/games/2022-02-28/stats.png" valign="middle" alt="stats" /></a>
