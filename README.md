@@ -1,4 +1,18 @@
+Legend:
+
+  * `(1)` - Accidental play under resetted statistic and replay under restored account.
+    Only the first one play is put for summary, so the statistic is distorted by a replay from that point.
+
+---
+
 https://www.nytimes.com/games/wordle/index.html
+
+* <details>
+  <summary><tt>(1)</tt> 2022-03-02 | Wordle 256 4/6 | 🟨⬛⬛🟨⬛ ⬛🟩⬛🟨⬛ ⬛🟩🟨🟩🟨 🟩🟩🟩🟩🟩</summary>
+    <a href="#"><img src="https://github.com/andry81/wordle-play/raw/master/games/2022-03-02/result.png" valign="middle" alt="result" /></a>
+    <a href="#"><img src="https://github.com/andry81/wordle-play/raw/master/games/2022-03-02/result2.png" valign="middle" alt="result" /></a>
+    <a href="#"><img src="https://github.com/andry81/wordle-play/raw/master/games/2022-03-02/stats.png" valign="middle" alt="stats" /></a>
+  </details>
 
 * <details>
   <summary>2022-03-01 | Wordle 255 6/6 | ⬛🟨⬛⬛🟩 ⬛⬛⬛🟨🟩 🟩⬛⬛⬛🟩 🟩🟩⬛⬛🟩 🟩🟩⬛⬛🟩 🟩🟩🟩🟩🟩</summary>
