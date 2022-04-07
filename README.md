@@ -8,6 +8,12 @@ Legend:
 https://www.nytimes.com/games/wordle/index.html
 
 * <details>
+  <summary>2022-04-07 | Wordle 292 6/6 | ⬛🟩⬛⬛⬛ ⬛🟩⬛⬛⬛ ⬛🟩🟩⬛🟩 ⬛🟩🟩⬛🟩 ⬛🟩🟩⬛🟩 🟩🟩🟩🟩🟩</summary>
+    <a href="#"><img src="https://github.com/andry81/wordle-play/raw/master/games/2022-04-07/result.png" valign="middle" alt="result" /></a>
+    <a href="#"><img src="https://github.com/andry81/wordle-play/raw/master/games/2022-04-07/stats.png" valign="middle" alt="stats" /></a>
+  </details>
+
+* <details>
   <summary>2022-04-06 | Wordle 291 4/6 | 🟩🟨⬛⬛⬛ 🟩⬛🟨⬛⬛ 🟩⬛🟨🟨⬛ 🟩🟩🟩🟩🟩</summary>
     <a href="#"><img src="https://github.com/andry81/wordle-play/raw/master/games/2022-04-06/result.png" valign="middle" alt="result" /></a>
     <a href="#"><img src="https://github.com/andry81/wordle-play/raw/master/games/2022-04-06/stats.png" valign="middle" alt="stats" /></a>
