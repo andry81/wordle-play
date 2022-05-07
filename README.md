@@ -8,6 +8,12 @@ Legend:
 https://www.nytimes.com/games/wordle/index.html
 
 * <details>
+  <summary>2022-05-07 | Wordle 322 4/6 | ⬛⬛🟨🟨⬛ 🟨🟩⬛⬛⬛ ⬛🟩🟩⬛⬛ 🟩🟩🟩🟩🟩</summary>
+    <a href="#"><img src="https://github.com/andry81/wordle-play/raw/master/games/2022-05-07/result.png" valign="middle" alt="result" /></a>
+    <a href="#"><img src="https://github.com/andry81/wordle-play/raw/master/games/2022-05-07/stats.png" valign="middle" alt="stats" /></a>
+  </details>
+
+* <details>
   <summary>2022-05-06 | Wordle 321 4/6 | 🟨⬛⬛🟨🟩 🟩⬛⬛🟩🟩 🟩⬛🟩🟩🟩 🟩🟩🟩🟩🟩</summary>
     <a href="#"><img src="https://github.com/andry81/wordle-play/raw/master/games/2022-05-06/result.png" valign="middle" alt="result" /></a>
     <a href="#"><img src="https://github.com/andry81/wordle-play/raw/master/games/2022-05-06/stats.png" valign="middle" alt="stats" /></a>
@@ -15,9 +21,8 @@ https://www.nytimes.com/games/wordle/index.html
 
 * <details>
   <summary>2022-05-05 | Wordle 320 X/6 | ⬛⬛🟨⬛⬛ ⬛🟨🟨⬛⬛ 🟨🟩⬛🟩⬛ ⬛🟩⬛🟩🟩 ⬛🟩⬛🟩🟩 ⬛🟩🟩🟩🟩</summary>
-    <tt>HOMER</tt><br />
+    <tt>HOMER</tt> - again low shitty frequency words chosen by computer from non international american english -.-<br />
     <a href="#"><img src="https://github.com/andry81/wordle-play/raw/master/games/2022-05-05/result.png" valign="middle" alt="result" /></a>
-    * <tt>Again low shitty frequency words chosen by computer from non international american english -.-</tt><br />
     <a href="#"><img src="https://github.com/andry81/wordle-play/raw/master/games/2022-05-05/stats.png" valign="middle" alt="stats" /></a>
   </details>
 
