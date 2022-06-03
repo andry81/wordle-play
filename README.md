@@ -8,6 +8,13 @@ Legend:
 https://www.nytimes.com/games/wordle/index.html
 
 * <details>
+  <summary>2022-06-04 | Wordle 350 X/6 | ⬛🟨⬛⬛⬛ ⬛⬛🟩⬛⬛ ⬛🟩🟩⬛⬛ ⬛🟩🟩🟩🟩 ⬛🟩🟩🟩🟩 ⬛🟩🟩🟩🟩</summary>
+    <tt>FROTH</tt> behind <tt>TROTH</tt> is all this game about<br />
+    <a href="#"><img src="https://github.com/andry81/wordle-play/raw/master/games/2022-06-04/result.png" valign="middle" alt="result" /></a>
+    <a href="#"><img src="https://github.com/andry81/wordle-play/raw/master/games/2022-06-04/stats.png" valign="middle" alt="stats" /></a>
+  </details>
+
+* <details>
   <summary>2022-06-03 | Wordle 349 4/6 | ⬛⬛⬛🟨⬛ ⬛🟨⬛🟨⬛ 🟨🟨🟩⬛🟩 🟩🟩🟩🟩🟩</summary>
     <a href="#"><img src="https://github.com/andry81/wordle-play/raw/master/games/2022-06-03/result.png" valign="middle" alt="result" /></a>
     <a href="#"><img src="https://github.com/andry81/wordle-play/raw/master/games/2022-06-03/stats.png" valign="middle" alt="stats" /></a>
